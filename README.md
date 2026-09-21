@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Telegram: https://t.me/kanisimoff44</p>
+<p>Telegram: https://t.me/kanisimov44</p>
 <p>Телефон: +7(983)170-6491</p>
 
 <br/>
@@ -22,10 +22,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"></code>
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Пройти курс по Docker, написать свой первый Dockerfile, познакомиться с инструментом docker compose
-* [x] Освоить такие сервисы как Celery, Redis, RabbitMQ, openapi(Swagger), Postman
-* [ ] Углубиться в изучение HTML & CSS.
-<!-- TODO-IST:END -->
